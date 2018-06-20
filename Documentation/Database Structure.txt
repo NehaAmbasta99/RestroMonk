@@ -1,0 +1,6 @@
+Bill - 		BillId, OrderId, Amount
+Restaurant-	Id,Name,PhoneNo,EmailId,Address,GPSLocation
+Customer-	Id,Name,PhoneNumber,Address
+Order- 		ItemId, ItemCount, OrderId
+Item - 		Id,Amount,Quantity,Details
+Staffs- 	Id, Name, Address, Email, PhoneNumber,Role (Chef,waiter,manager)
