@@ -15,14 +15,10 @@ namespace RestroMonk.Controllers
         {
             return new List<Account>
             {
-                new Account{ AccountNumber="0001", BankName="Dummy Bank", CustomerAddress= new Address
+                new Account{ AccountNumber="0001", BankName="Dummy Bank", Address= new Address
                 {
-                     Address1="address1", Address2="address2", Country="US", PostalCode="20877", State="MD"
-                }, CustomerId="Customer001", CustomerName="John Sherman"
-                },  new Account{ AccountNumber="0002", BankName="Dummy Bank", CustomerAddress= new Address
-                {
-                     Address1="address3", Address2="address4", Country="US", PostalCode="20877", State="MD"
-                }, CustomerId="Customer002", CustomerName="Marie Curie"
+                     Address1="Kanan Vihar", Address2="Patia", Country="India", PostalCode="751024", State="Odisha", City="Bhubaneswar"
+                }, Id="Cust001", Name="Nea Ambasta"
                 }
             };
         }
