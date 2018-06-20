@@ -1,0 +1,4 @@
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\RestroMonk.Domain.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\RestroMonk.Domain.pdb
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\obj\Debug\RestroMonk.Domain.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\obj\Debug\RestroMonk.Domain.pdb

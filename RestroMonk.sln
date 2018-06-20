@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroMonk", "RestroMonk\RestroMonk.csproj", "{2536E85A-2B8A-49E3-BE16-58CB40BA31C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroMonk.Data", "RestroMonk.Data\RestroMonk.Data.csproj", "{5D9ED5A0-BF4F-47F0-8B28-89ECCD728A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroMonk.Service", "RestroMonk.Service\RestroMonk.Service.csproj", "{E17FBE58-4D3B-478E-A796-73562326BB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroMonk.Repository", "RestroMonk.Repository\RestroMonk.Repository.csproj", "{11AF1CF3-FE3E-4E5C-947B-68E2DB13820A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroMonk.Domain", "RestroMonk.Domain\RestroMonk.Domain.csproj", "{940AF3E0-1949-44B4-8DA1-7FC09F91D233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2536E85A-2B8A-49E3-BE16-58CB40BA31C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2536E85A-2B8A-49E3-BE16-58CB40BA31C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2536E85A-2B8A-49E3-BE16-58CB40BA31C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2536E85A-2B8A-49E3-BE16-58CB40BA31C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9ED5A0-BF4F-47F0-8B28-89ECCD728A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9ED5A0-BF4F-47F0-8B28-89ECCD728A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9ED5A0-BF4F-47F0-8B28-89ECCD728A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9ED5A0-BF4F-47F0-8B28-89ECCD728A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17FBE58-4D3B-478E-A796-73562326BB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17FBE58-4D3B-478E-A796-73562326BB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17FBE58-4D3B-478E-A796-73562326BB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17FBE58-4D3B-478E-A796-73562326BB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AF1CF3-FE3E-4E5C-947B-68E2DB13820A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AF1CF3-FE3E-4E5C-947B-68E2DB13820A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AF1CF3-FE3E-4E5C-947B-68E2DB13820A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AF1CF3-FE3E-4E5C-947B-68E2DB13820A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940AF3E0-1949-44B4-8DA1-7FC09F91D233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940AF3E0-1949-44B4-8DA1-7FC09F91D233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940AF3E0-1949-44B4-8DA1-7FC09F91D233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940AF3E0-1949-44B4-8DA1-7FC09F91D233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
