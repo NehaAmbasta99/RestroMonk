@@ -2,3 +2,9 @@ E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\RestroMonk.
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\RestroMonk.Domain.pdb
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\obj\Debug\RestroMonk.Domain.dll
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\obj\Debug\RestroMonk.Domain.pdb
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\obj\Debug\RestroMonk.Domain.csprojResolveAssemblyReference.cache
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\RestroMonk.Domain.dll.config
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\EntityFramework.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\EntityFramework.xml
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Domain\bin\Debug\EntityFramework.SqlServer.xml

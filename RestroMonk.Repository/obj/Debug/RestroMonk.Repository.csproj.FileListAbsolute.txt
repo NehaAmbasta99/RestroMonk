@@ -3,3 +3,14 @@ E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroM
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\obj\Debug\RestroMonk.Repository.csprojResolveAssemblyReference.cache
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\obj\Debug\RestroMonk.Repository.dll
 E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\obj\Debug\RestroMonk.Repository.pdb
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Repository.dll.config
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Data.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Domain.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Data.pdb
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Data.dll.config
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Domain.pdb
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\EntityFramework.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\RestroMonk.Domain.dll.config
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\EntityFramework.xml
+E:\2018 Projects\Git Projects\RestroMonk\RestroMonk.Repository\bin\Debug\EntityFramework.SqlServer.xml

@@ -41,6 +41,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RestroMonk.Domain\RestroMonk.Domain.csproj">
+      <Project>{940af3e0-1949-44b4-8da1-7fc09f91d233}</Project>
+      <Name>RestroMonk.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RestroMonk.Repository\RestroMonk.Repository.csproj">
+      <Project>{11af1cf3-fe3e-4e5c-947b-68e2db13820a}</Project>
+      <Name>RestroMonk.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

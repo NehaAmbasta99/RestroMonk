@@ -1,4 +1,6 @@
-﻿namespace RestroMonk.Models
+﻿using System.Collections.Generic;
+
+namespace RestroMonk.Models
 {
     public class Account
     {
@@ -6,9 +8,5 @@
             public string Id { get; set; }
             public string BankName { get; set; }
             public string Name { get; set; }
-            public Address Address
-            {
-                get; set;
-            }
     }
 }
